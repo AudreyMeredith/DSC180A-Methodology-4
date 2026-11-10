@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Methodology Assignment 4
